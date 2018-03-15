@@ -1,6 +1,6 @@
 <?php
 error_reporting(0);
-echo 4444;
+echo 4444;die;
 /*error_reporting(0);
 $arr = array(1,3,9,23,54,88);
 //二分查找（数组里查找某个元素）
